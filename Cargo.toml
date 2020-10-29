@@ -1,0 +1,8 @@
+[package]
+name = "splinter"
+version = "0.1.0"
+authors = ["David Koloski <djkoloski@gmail.com>"]
+edition = "2018"
+
+[dev-dependencies]
+approx = "0.3"
